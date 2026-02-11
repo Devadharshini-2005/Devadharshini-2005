@@ -14,20 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi 👋 I'm Devadharshini
-
-🎓 CSE Student  
-💻 Passionate about Web Development and Problem Solving  
-🚀 Building projects to improve my skills every day  
+<h1 align="center">Hi 👋, I'm Devadharshini S</h1>
+<p align="center">Aspiring Backend Developer | Java Enthusiast | Passionate about Clean Code & Scalable Systems | English (fluent), Hindi (basic proficiency)</p>
 
 ---
 
-## 👩‍💻 About Me
+## 💡 About Me
 
-- 🌱 Currently learning: Full Stack Development
-- 💡 Interested in: Web Development, Java, DSA
-- 🧠 Practicing Data Structures & Algorithms
-- 🎯 Goal: To become a skilled Software Developer
+- 🎓 Studying B.E. CSE at PSNA College of Engineering and Technology  
+- 💻 Strong foundation in Core Java, OOP, and DSA  
+- 🌱 Currently learning **Spring** and **Spring Boot**  
+- 📚 Practicing [Striver's A-Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) daily to master Data Structures and Algorithms  
+- 🧠 Exploring backend systems, APIs, and scalable web applications  
+- ⚡ Fun fact: I love turning logic into code and debugging gives me peace!
 
 ---
 
@@ -81,22 +80,28 @@ Here are some ideas to get you started:
 
 ---
 
-## 🧠 LeetCode Stats
+## 💻 LeetCode Stats
 
-- 🔢 Problems Solved: XX+  
-- 🏆 Contest Rating: XXXX  
-- 📊 Strong in: Arrays, Strings, Recursion  
-
-🔗 LeetCode Profile: https://leetcode.com/your-username/
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Devadharshini_S-13?theme=light&font=Karla" alt="LeetCode Stats" />
+</p>
 
 ---
 
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/your-link
-- 📧 Email: devadharshinis1308@gmail.com
-- 🐙 GitHub: https://github.com/devadharshini-2005
+## 📄 Resume
+- [Click here to view my Resume](https://drive.google.com/file/d/1V4kGWSMYH6hE58dsp8cKtjRJfS5aZWvR/view?usp=drivesdk)
 
 ---
 
-⭐️ *“Consistency beats talent when talent doesn’t work hard.”*  give leetcode score as in leeetcode view add the clean leetcode status
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:devadharshinis1308@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/devadharshini-s-43247b297/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Devadharshini_S-13/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+</p>
+
+---
+
+
+⭐️ *“Consistency beats talent when talent doesn’t work hard.”*
