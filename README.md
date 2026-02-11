@@ -14,3 +14,79 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi 👋 I'm Devadharshini
+
+🎓 CSE Student  
+💻 Passionate about Web Development and Problem Solving  
+🚀 Building projects to improve my skills every day  
+
+---
+
+## 👩‍💻 About Me
+
+- 🌱 Currently learning: Full Stack Development
+- 💡 Interested in: Web Development, Java, DSA
+- 🧠 Practicing Data Structures & Algorithms
+- 🎯 Goal: To become a skilled Software Developer
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+- Java
+- JavaScript
+- HTML
+- CSS
+
+### 🗄️ Database
+- MongoDB
+- MySQL (Basics)
+
+### ⚙️ Tools & Technologies
+- Git & GitHub
+- VS Code
+- IntelliJ IDEA
+
+---
+
+## 🚀 Projects
+
+### 🔹 Personal Portfolio Website
+- Built using HTML, CSS, JavaScript
+- Fully responsive design
+- Smooth scrolling and clean UI
+
+### 🔹 Calculator Web App
+- Performs basic arithmetic operations
+- Real-time input handling
+- Responsive layout
+
+### 🔹 To-Do Application
+- Add, delete and manage daily tasks
+- Interactive UI using JavaScript
+- Responsive design
+
+*(You can add GitHub project links here later)*
+
+---
+
+## 🧠 LeetCode Stats
+
+- 🔢 Problems Solved: XX+  
+- 🏆 Contest Rating: XXXX  
+- 📊 Strong in: Arrays, Strings, Recursion  
+
+🔗 LeetCode Profile: https://leetcode.com/your-username/
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/your-link
+- 📧 Email: your-email@gmail.com
+- 🐙 GitHub: https://github.com/devadharshini-2005
+
+---
+
+⭐️ *“Consistency beats talent when talent doesn’t work hard.”*  give leetcode score as in leeetcode view add the clean leetcode status
