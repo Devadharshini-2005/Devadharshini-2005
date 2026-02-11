@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/your-link
-- 📧 Email: your-email@gmail.com
+- 📧 Email: devadharshinis1308@gmail.com
 - 🐙 GitHub: https://github.com/devadharshini-2005
 
 ---
