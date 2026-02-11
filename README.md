@@ -53,21 +53,31 @@ Here are some ideas to get you started:
 ## 🚀 Projects
 
 ### 🔹 Personal Portfolio Website
-- Built using HTML, CSS, JavaScript
-- Fully responsive design
-- Smooth scrolling and clean UI
+- Built using HTML, CSS, JavaScript  
+- Fully responsive design  
+- Smooth scrolling and clean UI  
 
 ### 🔹 Calculator Web App
-- Performs basic arithmetic operations
-- Real-time input handling
-- Responsive layout
+- Performs basic arithmetic operations  
+- Real-time input handling  
+- Responsive layout  
 
 ### 🔹 To-Do Application
-- Add, delete and manage daily tasks
-- Interactive UI using JavaScript
-- Responsive design
+- Add, delete and manage daily tasks  
+- Interactive UI using JavaScript  
+- Responsive design  
 
-*(You can add GitHub project links here later)*
+### 🔹 Guess The Number Game 🎮
+- Interactive number guessing game using JavaScript  
+- Generates random numbers dynamically  
+- Provides user hints (higher/lower)  
+- Enhances logical thinking and DOM manipulation skills  
+
+### 🔹 Age Calculator 🎂
+- Calculates exact age based on date of birth  
+- Displays age in years, months, and days  
+- Implemented using JavaScript Date object  
+- Clean and user-friendly interface  
 
 ---
 
