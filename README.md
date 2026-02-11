@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Devadharshini-2005/Devadharshini-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 - 🎓 Studying B.E. CSE at PSNA College of Engineering and Technology  
 - 💻 Strong foundation in Core Java, OOP, and DSA  
 - 🌱 Currently learning **Spring** and **Spring Boot**  
-- 📚 Practicing [Striver's A-Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) daily to master Data Structures and Algorithms  
 - 🧠 Exploring backend systems, APIs, and scalable web applications  
 - ⚡ Fun fact: I love turning logic into code and debugging gives me peace!
 
