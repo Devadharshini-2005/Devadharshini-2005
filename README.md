@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Devadharshini S</h1>
-<p align="center">Aspiring Backend Developer | Java Enthusiast | Passionate about Clean Code & Scalable Systems | English (fluent), Hindi (basic proficiency)</p>
+<p align="center">Aspiring Backend Developer | Java Enthusiast | Passionate about Clean Code & Scalable Systems | English (fluent)</p>
 
 ---
 
@@ -58,24 +58,28 @@ Here are some ideas to get you started:
 ### 🔹 Calculator Web App
 - Performs basic arithmetic operations  
 - Real-time input handling  
-- Responsive layout  
+- Responsive layout
+- Link : https://devadharshini-2005.github.io/Calculator/calculator.html
 
 ### 🔹 To-Do Application
 - Add, delete and manage daily tasks  
 - Interactive UI using JavaScript  
-- Responsive design  
+- Responsive design
+- Link : https://devadharshini-2005.github.io/To-Do_List_Application/todo-list.html
 
 ### 🔹 Guess The Number Game 🎮
 - Interactive number guessing game using JavaScript  
 - Generates random numbers dynamically  
 - Provides user hints (higher/lower)  
-- Enhances logical thinking and DOM manipulation skills  
+- Enhances logical thinking and DOM manipulation skills
+- Link : https://devadharshini-2005.github.io/Guess-Number-Game/  
 
 ### 🔹 Age Calculator 🎂
 - Calculates exact age based on date of birth  
 - Displays age in years, months, and days  
 - Implemented using JavaScript Date object  
-- Clean and user-friendly interface  
+- Clean and user-friendly interface
+- Link : https://devadharshini-2005.github.io/Age_Calculator/age.html
 
 ---
 
