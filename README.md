@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Devadharshini S</h1>
-<p align="center">Aspiring Backend Developer | Java Enthusiast | Passionate about Clean Code & Scalable Systems | English (fluent)</p>
+<p align="center">Aspiring Backend Developer | Java Enthusiast | Passionate about Clean Code & Scalable Systems | English </p>
 
 ---
 
