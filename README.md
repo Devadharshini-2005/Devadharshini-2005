@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Devadharshini S</h1>
-<p align="center">Aspiring Backend Developer | Java Enthusiast | Passionate about Clean Code & Scalable Systems | English </p>
+<p align="center">Aspiring Java Full Stack Developer | Java Enthusiast | Web Developer | UI/UX Designer </p>
 
 ---
 
@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 - 💻 Strong foundation in Core Java, OOP, and DSA  
 - 🌱 Currently learning **Spring** and **Spring Boot**  
 - 🧠 Exploring backend systems, APIs, and scalable web applications  
-- ⚡ Fun fact: I love turning logic into code and debugging gives me peace!
 
 ---
 
